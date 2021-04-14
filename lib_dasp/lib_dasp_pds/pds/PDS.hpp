@@ -1,7 +1,7 @@
 #ifndef INCLUDED_PDS_PDS_HPP
 #define INCLUDED_PDS_PDS_HPP
 
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <vector>
 
 namespace pds

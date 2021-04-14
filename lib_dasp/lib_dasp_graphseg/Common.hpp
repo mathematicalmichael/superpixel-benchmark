@@ -9,7 +9,7 @@
 #define DASP_SPECTRAL_COMMON_HPP
 
 #include <boost/graph/adjacency_list.hpp>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <vector>
 
 namespace graphseg

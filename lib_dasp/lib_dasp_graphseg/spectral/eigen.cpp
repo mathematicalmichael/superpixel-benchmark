@@ -1,5 +1,5 @@
 #include "solver.hpp"
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #ifdef SPECTRAL_VERBOSE
 #	include <iostream>
 #endif

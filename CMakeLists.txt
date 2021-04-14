@@ -50,12 +50,12 @@ option(BUILD_FH "Build FH" ON)
 option(BUILD_MSS "Build MSS" ON)
 option(BUILD_PB "Build PB" ON)
 option(BUILD_PRESLIC "Build preSLIC" ON)
-option(BUILD_CW "Build CW" ON)
+option(BUILD_CW "Build CW" OFF)  # cvGetMatSize declaration error
 option(BUILD_CIS "Build CIS" OFF) # licensing 
 option(BUILD_W "Build W" ON)
 option(BUILD_LSC "Build LSC" ON)
 option(BUILD_CCS "Build CCS" ON)
-option(BUILD_DASP "Build DASP" ON)
+option(BUILD_DASP "Build DASP" ON) # having eigen troubles
 option(BUILD_VCCS "Build VCCS" ON)
 option(BUILD_REFH "Build reFH" ON)
 option(BUILD_VLSLIC "Build vlSLIC" ON)

@@ -2,7 +2,7 @@
 #define INCLUDED_PDS_DENSITY_HPP
 
 #include <Danvil/Tools/FunctionCache.h>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <vector>
 
 namespace density

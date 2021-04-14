@@ -12,7 +12,7 @@
 #include "../Parameters.hpp"
 #include "../Metric.hpp"
 #include <Slimage/Slimage.hpp>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <iostream>
 
 namespace dasp

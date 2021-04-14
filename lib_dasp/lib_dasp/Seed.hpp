@@ -8,7 +8,7 @@
 #ifndef DASP_SEED_HPP_
 #define DASP_SEED_HPP_
 
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 
 namespace dasp
 {

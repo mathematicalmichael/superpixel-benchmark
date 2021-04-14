@@ -9,7 +9,7 @@
 #define INCLUDED_DENSITY_SCALEPYRAMID_HPP_
 
 #include <Slimage/Slimage.hpp>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <stdexcept>
 #include <vector>
 #include <tuple>

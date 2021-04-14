@@ -12,7 +12,7 @@
 #include "as_range.hpp"
 #include "graphseg.hpp"
 #include <boost/graph/adjacency_list.hpp>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 
 namespace dasp
 {

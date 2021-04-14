@@ -17,7 +17,7 @@
 #include <Danvil/Color.h>
 #include <Danvil/Color/LAB.h>
 #include <Danvil/Color/HSV.h>
-#include <Eigen/Geometry>
+#include <eigen3/Eigen/Geometry>
 #include <cmath>
 #include <iostream>
 

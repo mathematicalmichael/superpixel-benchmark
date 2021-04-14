@@ -13,7 +13,7 @@
 #include <Labeling.hpp>
 #include <graphseg.hpp>
 #include <Slimage/Slimage.hpp>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <boost/graph/adjacency_list.hpp>
 #include <boost/graph/copy.hpp>
 #include <vector>

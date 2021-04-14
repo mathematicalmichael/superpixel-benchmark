@@ -1,7 +1,7 @@
 #ifndef INCLUDED_DENSITY_SMOOTH_HPP
 #define INCLUDED_DENSITY_SMOOTH_HPP
 
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 
 namespace density
 {

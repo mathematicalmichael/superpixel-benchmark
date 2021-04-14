@@ -2,7 +2,7 @@
 #define COMMON_COLOR_HPP_
 //----------------------------------------------------------------------------//
 #include <Danvil/Color.h>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <Slimage/Slimage.hpp>
 //----------------------------------------------------------------------------//
 namespace common {

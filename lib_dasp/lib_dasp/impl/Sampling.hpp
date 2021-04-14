@@ -10,7 +10,7 @@
 
 #include "../Point.hpp"
 #include "../Seed.hpp"
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <vector>
 
 namespace dasp

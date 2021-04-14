@@ -7,7 +7,7 @@
 #include <GL/glew.h>
 #include <graphseg/as_range.hpp>
 #include <boost/graph/adjacency_list.hpp>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 
 namespace graphseg
 {

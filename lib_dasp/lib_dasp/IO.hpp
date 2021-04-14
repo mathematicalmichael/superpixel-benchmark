@@ -2,7 +2,7 @@
 #define INCLUDED_DASP_IO_HPP_
 
 #include "Graph.hpp"
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <string>
 #include <vector>
 

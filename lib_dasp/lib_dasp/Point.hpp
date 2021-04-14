@@ -11,7 +11,7 @@
 #include "Parameters.hpp"
 #include "Array.hpp"
 #include <Danvil/Tools/MoreMath.h>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <vector>
 
 namespace dasp

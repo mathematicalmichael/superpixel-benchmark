@@ -11,7 +11,7 @@
 #include "Point.hpp"
 #include <Danvil/Tools/MoreMath.h>
 #include <Danvil/Tools/FunctionCache.h>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 
 namespace dasp
 {

@@ -3,7 +3,7 @@
 
 #include <Danvil/Color.h>
 #include <Slimage/Slimage.hpp>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <vector>
 
 namespace density
